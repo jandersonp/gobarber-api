@@ -1,3 +1,3 @@
 <h1 align="center">
-  <img alt="Logo" src="https://res.cloudinary.com/dhqccndp7/image/upload/b_rgb:3c3434/v1591839911/logo_gobarber.svg" width="200px">
+  <img alt="Logo" src="https://camo.githubusercontent.com/5982166868335d51d1fdf8bbc766460876cd3c72/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f656c6961736763662f696d6167652f75706c6f61642f76313538383632353336392f476f4261726265722f6c6f676f5f6977317639662e737667" width="200px">
 </h1>
