@@ -13,3 +13,9 @@
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
 </p>
+
+## About the project
+
+API to organize barbershop schedules. Customers have the flexibility to make an appointment with their favorite barber.
+
+Barbers can view all of their scheduled appointments and also those that have been canceled.
